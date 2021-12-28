@@ -1,0 +1,3 @@
+#  Name                     Cut Var                     operator        Value
+"Photon pT"     "gen_leading_photon_Pt"                "<"          "50"
+#"deltaRH1"      "OneAK8TwoAK4_minMass_ReconsH_dR_H1<3"
